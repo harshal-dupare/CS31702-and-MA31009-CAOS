@@ -1,0 +1,13 @@
+## adds contains of $r1 and $r2 and stores in $r3, $r3 = $r2 + $r1
+
+  add $r3 $r1 $r2
+  
+____________________________________________________________________________________________________________
+
+## adds the immediate value "i" suppled to $r1 and stores in $r2 , $r2 = $r1 + i
+## i in addi stands for immediate, which represents value stored in memory and not in any register
+
+  addi $r2 $r1 i
+  
+____________________________________________________________________________________________________________
+
